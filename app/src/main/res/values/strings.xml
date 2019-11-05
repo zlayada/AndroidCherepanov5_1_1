@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Внешние файлы замети</string>
+    <string name="tBtnOK">Создать</string>
+    <string name="btnDel">Удалить</string>
+    <string name="not_file">Добавьте записи</string>
+    <string name="string_btnplus">Добавить</string>
+    <string name="title_note">Название заметки</string>
+    <string name="category_name">Название категории</string>
+
+
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+
+    <dimen name="textSizeTitle">18dp</dimen>
+    <dimen name="textSizeSubTitle">14dp</dimen>
+    <dimen name="textSizeBtn">12dp</dimen>
+
+</resources>
